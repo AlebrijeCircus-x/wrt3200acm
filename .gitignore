@@ -1,0 +1,4 @@
+.vscode/settings.json
+.codechecker../
+newrelic_agent.log
+compile*
